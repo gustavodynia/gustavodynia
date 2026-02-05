@@ -1,15 +1,28 @@
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">A IT Infrastructure Analyst</h3>
+# Hi 👋, I'm Gustavo
 
-- 🌱 I’m currently learning **Python POO and Ansible**
+### ☁️ IT Infrastructure Analyst
+*Analista de Infraestrutura focado em automação e cloud.*
 
-- 💬 Ask me about **programming in general**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Languages and Tools:
 <p align="left">
-<a href="https://linkedin.com/in/gustavodynia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavodynia" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🚀 My Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodynia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodynia&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
 
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
+
+- 🌱 I’m currently learning **Python POO and Ansible**
+- 💬 Ask me about **Infrastructure, Linux or Python**
