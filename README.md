@@ -1,7 +1,7 @@
 # Hi 👋, I'm Gustavo
 
 ### ☁️ IT Infrastructure Analyst
-*Analista de Infraestrutura focado em desenvolvimento backend e automação + cloud.*
+*Infrastructure Analyst focused on backend development and automation + cloud.*
 
 ---
 
