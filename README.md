@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">A II Infrastructure Analyst</h3>
+<h3 align="center">A IT Infrastructure Analyst</h3>
 
 - 🌱 I’m currently learning **Python POO and Ansible**
 
