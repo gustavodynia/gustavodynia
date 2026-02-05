@@ -13,13 +13,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-### 🚀 My Stats
-<p align="left">
-![Stats](https://github-readme-stats.vercel.app/api?username=gustavodynia&show_icons=true&theme=tokyonight)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodynia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodynia&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
 ---
 
 ### 📫 Connect with me:
